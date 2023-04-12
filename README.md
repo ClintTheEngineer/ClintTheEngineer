@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... software development
 - 🌱 I’m currently learning ... that's it, I'm always learning.
 - 💞️ I’m looking to collaborate on ... interesting projects or with any experienced developer
-- 📫 How to reach me ...reachme@clintalexander.dev
+- 📫 How to reach me ...clintengineer@gmail.com
 
 <!---
 ClintTheEngineer/ClintTheEngineer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

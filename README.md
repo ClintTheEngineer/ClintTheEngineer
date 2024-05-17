@@ -1,4 +1,4 @@
-- 👋🏿 Hi, I’m @ClintTheEngineer
+- 🫡 Hi, I’m @ClintTheEngineer
 - 👀 I’m interested in ... software development
 - 🌱 I’m currently learning ... that's it, I'm always learning.
 - 💞️ I’m looking to collaborate on ... interesting projects or with any experienced developer
